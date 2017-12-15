@@ -1,12 +1,14 @@
-#Tetris
+# Tetris
 
-##Description
+### Description
 
-The classic tetris game implemented in python 2.7 / pygame 1.9.2. You can start it from main.py (should work on unix as well, although I haven't tested it.
-You can also try the game out from the exe (only tested on windows 7 x64, may not work on XP).
-
-The goal of this project was to design a *very basic* game engine. I think it turned out ok.
+The classic tetris game implemented in python & pygame, for learning purposes. The goal of this project was to design a *very basic* game engine.
 
 
-###License
+### Run Instructions
+This project uses pygame-1.9.2. If you have it installed you can start it by simply calling `python main.py`.  
+
+There's also a Windows executable that works under Windows 7/8/Vista/10. You can download it from [here](https://github.com/orangeblock/tetris/raw/master/exe/tetris-1.0.rar). Unzip and run `tetris.exe`.
+
+### License
 Check LICENSE.txt.
