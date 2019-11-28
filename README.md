@@ -1,5 +1,9 @@
 # Tetris
 
+<p align="center">
+  <img width="460" height="360" src="demo.gif">
+</p>
+
 ### Description
 
 The classic tetris game implemented in python & pygame, for learning purposes. The goal of this project was to design a *very basic* game engine.
